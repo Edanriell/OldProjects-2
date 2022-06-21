@@ -1,0 +1,17 @@
+section {
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+}
+button {
+	padding: 1rem 2rem;
+	font-size: 1.5rem;
+	border: none;
+	color: white;
+	background: rgb(28, 28, 28);
+    transition: background 0.75s ease-out;
+}
+button:hover {
+    background: rgb(80, 77, 172);
+}
