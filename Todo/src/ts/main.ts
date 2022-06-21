@@ -1,4 +1,4 @@
-import "../styles/style.css";
+import "../css/style.css";
 
 const todoInput: HTMLInputElement | null = document.querySelector(".todo-input");
 const todoButton: HTMLButtonElement | null = document.querySelector(".todo-button");
