@@ -1,2 +1,2 @@
-# Skincare
-![Food](https://github.com/jenixberg/oldProjects/blob/main/projects__old/Food(HTML,CSS,JS)/food.jpg?raw=true)
+# JSAnimations
+![JSAnimations](https://github.com/Edanriell/oldProjects-2/blob/master/Lessons/JSAnimations/jsAnimations.png?raw=true)
